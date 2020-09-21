@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatechi</groupId>
-	<artifactId>Spring-Api-Gatway</artifactId>
+	<artifactId>cloud-Gatway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring-Api-Gatway</name>
 	<description>Demo project for Spring Boot</description>
